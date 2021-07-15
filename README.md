@@ -1,4 +1,4 @@
-<h3>Hi there ✨ <img src="https://gpvc.arturio.dev/qwadoh" align="center" /></h3>
+<h3>Hi there ✨ <img src="https://gpvc.arturio.dev/nonamedaun" align="center" /></h3>
 
 ### Language 👨‍💻	
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +26,7 @@
 
 ### Social networks
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840218236028321832/840223951971156009)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fivekkplug)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xaizaki.svg)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nonamedaun)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/qwadoh)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31pn2mvks2k4de3aki7shwq6g334)
