@@ -1,5 +1,8 @@
 <h3>Hi there ✨ <img src="https://gpvc.arturio.dev/nonamedaun" align="center" /></h3>
 
+### Now playing
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31pn2mvks2k4de3aki7shwq6g334)
+
 ### Language 👨‍💻	
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
